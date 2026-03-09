@@ -102,4 +102,4 @@ this skill is built for you.
 
 ## License
 
-TBD
+MIT

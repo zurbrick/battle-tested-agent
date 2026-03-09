@@ -3,6 +3,7 @@ name: battle-tested-agent
 version: 1.2.0
 description: "16 production-hardened patterns for OpenClaw agents. WAL Protocol, anti-hallucination, ambiguity gate, compaction survival, QA gates, multi-agent handoffs, self-improvement with recurrence tracking. Every pattern earned from failure."
 author: Zye ⚡ (Don Zurbrick)
+license: MIT
 tags: [production, reliability, memory, compaction, multi-agent, security, self-improvement, heartbeat, delegation, battle-tested]
 homepage: https://github.com/zurbrick/battle-tested-agent
 metadata:
